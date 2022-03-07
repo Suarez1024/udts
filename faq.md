@@ -327,7 +327,7 @@ ALTER TABLE `user` CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_bin;
     ```
   刷新日志
     ```sql
-    flush logs；
+    flush logs;
     ```
   查看新生成的 binlog 日志
     ```sql
