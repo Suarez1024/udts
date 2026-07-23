@@ -59,6 +59,7 @@
     * 源为MySQL
         * [MySQL迁移到MySQL](/udts/inti/type/mysql_source/mysql2mysql)
         * [MySQL迁移到TiDB](/udts/inti/type/mysql_source/mysql2tidb)
+        * [MySQL迁移到ClickHouse](/udts/inti/type/mysql_source/mysql2clickhouse)
     * 源为MongoDB
         * [MongoDB](/udts/inti/type/mongosource)
     * 操作指南
